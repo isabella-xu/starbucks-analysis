@@ -30,6 +30,9 @@ The data set of this project contains simulated data that mimics customer behavi
 ## Licensing, Authors, and Acknowledgements
 ### Author: 
 Isabella Xu<br/>
+<br />
+Please go to my blog post for this project on [Medium](https://medium.com/@isabella.xu/starbucks-mobile-app-offer-analysis-e82c017f21ea) for more details.
+
 
 ### Acknowledgements
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Please refer to Udacity Terms of Service for further information.
